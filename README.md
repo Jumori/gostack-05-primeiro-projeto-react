@@ -23,11 +23,11 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
-   * [Funcionalidades](#-funcionalidades)
+   * [Funcionalidades](#️-funcionalidades)
    * [Layout](#-layout)
    * [Como executar o projeto](#-como-executar-o-projeto)
      * [Pré-requisitos](#pré-requisitos)
-     * [Rodando a aplicação](#user-content--rodando-a-aplicação)
+     * [Rodando a aplicação](#-rodando-a-aplicação-web-frontend)
    * [Tecnologias](#-tecnologias)
    * [Autora](#-autora)
    * [Licença](#user-content--licença)
